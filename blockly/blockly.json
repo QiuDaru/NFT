@@ -1,6 +1,6 @@
 {
-  "types": ["threeblockly"],
-  "category": "toolbox",
+  "types": ["fiveblockly"],
+  "category": "category_custom",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
